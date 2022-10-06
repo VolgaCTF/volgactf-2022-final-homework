@@ -1,0 +1,5 @@
+aiohttp==3.7.4
+volgactf.final.checker.result==1.0.0
+unidecode==1.3.4
+Faker==14.2.0
+olefile==0.46
